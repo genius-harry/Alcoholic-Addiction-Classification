@@ -43,7 +43,7 @@ Four machine learning models were trained on the processed EEG data, each with d
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Alcoholic-Addiction-Classification.git
+    git clone https://github.com/genius-harry/Alcoholic-Addiction-Classification.git
     cd Alcoholic-Addiction-Classification
     ```
 
