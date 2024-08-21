@@ -1,17 +1,5 @@
 
 # Security Policy
-
-## Supported Versions
-
-The following versions of the project are currently supported with security updates:
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
-
 ## Reporting a Vulnerability
 
 If you discover a security vulnerability, please report it by sending an email to yrharryyao@icloud.com. 
