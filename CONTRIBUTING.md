@@ -107,6 +107,6 @@ We welcome pull requests for bug fixes, new features, and documentation improvem
 
 ---
 
-### Thank you for contributing to the **College-Acceptance-Rate-Prediction** project! 
+### Thank you for contributing to the **Alcoholic-Addiction-Classification** project! 
 
 Your contributions help improve the accuracy, performance, and usability of this project for the community.
