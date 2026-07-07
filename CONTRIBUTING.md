@@ -1,5 +1,5 @@
 
-# Contributing to College Acceptance Rate Prediction Project
+# Contributing to Alcoholic Addiction Classification
 
 First off, thank you for considering contributing to this project! Your contributions, no matter how big or small, are greatly appreciated.
 
